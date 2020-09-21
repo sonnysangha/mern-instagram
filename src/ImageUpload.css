@@ -1,0 +1,16 @@
+.imageupload {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imageupload__progress {
+  width: 100%;
+}
+
+.imageupload__button {
+  margin: 10px;
+  height: 30px;
+}
